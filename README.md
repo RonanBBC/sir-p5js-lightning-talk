@@ -1,5 +1,6 @@
 # Infection modelling in p5js
 
+[GitHub Pages](https://ronanbbc.github.io/sir-p5js-lightning-talk/)
 
 
 ## Resources
