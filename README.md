@@ -4,6 +4,7 @@
 
 
 ## Resources
+* [Why outbreaks like coronavirus spread exponentially, and how to “flatten the curve” - Harry Stevens](https://www.washingtonpost.com/graphics/2020/world/corona-simulator/)
 * [SIR model - Wikipedia](https://en.wikipedia.org/wiki/Compartmental_models_in_epidemiology#The_SIR_model)
 * [The Coronavirus Curve](https://www.youtube.com/watch?v=k6nLfCbAzgo) - [Numberphile](https://www.youtube.com/channel/UCoxcjq-8xIDTYp3uz647V5A)
 * [Simulating an epidemic](https://www.youtube.com/watch?v=gxAaO2rsdIs) - [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)
